@@ -1,0 +1,2 @@
+the command used is "git checkout master" to switch to master branch 
+then, "git pull" was used to get the data from the server 
